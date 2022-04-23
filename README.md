@@ -20,3 +20,4 @@ docker-compose up -d
 ```
 docker-compose stop
 ```
+To contribute just make a PR.
